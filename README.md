@@ -6,7 +6,7 @@ This is a Laravel-based web application that provides Product and Orders Api for
 
 ## Features
 
-- CRUD functionality for Product and Orders
+- CRUD API for Product and Orders
 
 ## Requirements
 
@@ -27,7 +27,7 @@ terminal :
 
 4. **Setup .ENV :**
    - rename file .env.example to .env 
-   - open and change database configuration. ex :
+   - open and change database configuration. example :
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
@@ -41,3 +41,6 @@ terminal :
 
 6. **Run Laravel:**
     php artisan serve
+
+ **Note:**
+ DEFAULT PORT : 8000
