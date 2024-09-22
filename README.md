@@ -43,5 +43,4 @@ terminal :
 6. **Run Laravel:**
    $ php artisan serve
 
- **Note:**
- DEFAULT PORT : 8000
+Your application should now be running at http://localhost:8000.
